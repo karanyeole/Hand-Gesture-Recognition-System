@@ -85,7 +85,7 @@ The Hand Gesture Recognition System demonstrates the potential of using computer
 ## Contribution
 - [Karan Gorakh Yeole](karanyeole2712@gmail.com) - Developer
 - [Ajay Manohar Honrao](ajayhonrao12@gmail.com) - Co-Developer
-
+- 
 ## License
 This project is licensed under the MIT License.
 
