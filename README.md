@@ -83,7 +83,8 @@ The Hand Gesture Recognition System demonstrates the potential of using computer
 - Environmental factors such as lighting can affect accuracy.
 
 ## Contribution
-Contributions are welcome! Please open an issue or submit a pull request.
+- [Karan Gorakh Yeole](karanyeole2712@gmail.com) - Developer
+- [Ajay Manohar Honrao](ajayhonrao12@gmail.com) - Co-Developer
 
 ## License
 This project is licensed under the MIT License.
