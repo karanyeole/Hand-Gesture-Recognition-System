@@ -4,7 +4,6 @@ The Hand Gesture Recognition System project designed to allow users to interact 
 ## Features
 - Real-time hand gesture recognition using a webcam.
 - Controls for five gestures: up, down, left, right, and stop.
-- Chrome extension for controlling streaming videos on YouTube.
 - Webpage interface for easy demonstration and usage.
 
 ## Dataset Description
@@ -53,8 +52,6 @@ The Hand Gesture Recognition System project designed to allow users to interact 
 
 3. Click the **Start** button to begin the hand gesture recognition system.
 
-4. Use the Chrome extension to test the system with YouTube or other supported services.
-
 ## Development/Deployment
 
 1. **Model Training**: The model was trained manually by converting all image data into arrays and using a neural network for classification. The custom dataset consists of 10,000 images representing five gesture classes.
@@ -83,11 +80,11 @@ The Hand Gesture Recognition System demonstrates the potential of using computer
 - Environmental factors such as lighting can affect accuracy.
 
 ## Contribution
-- [Karan Gorakh Yeole](karanyeole2712@gmail.com) - Developer
-- [Ajay Manohar Honrao](ajayhonrao12@gmail.com) - Co-Developer
+- Karan Gorakh Yeole karanyeole2712@gmail.com - Developer
+- Ajay Manohar Honrao ajayhonrao12@gmail.com - Co-Developer
 - 
 ## License
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, please contact Karan Gorakh Yeole at karanyeole2712@gmail.com .
+For any inquiries or suggestions, please contact Karan Gorakh Yeole at karanyeole2712@gmail.com .
